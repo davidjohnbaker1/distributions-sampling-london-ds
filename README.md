@@ -3,9 +3,9 @@
 Lecture V2.1 Distributions and Sampling Lecture for London Flatiron Campus.
 Some of the materials used here were originall taken from [this lecture on confidence intervals](https://github.com/learn-co-students/on_confidence_intervals_seattle-ds/blob/master/on_confidence_intervals.ipynb) and [this lecture on sampling](https://github.com/learn-co-students/dsc-sampling-012720/blob/master/sampling.ipynb). 
 
-* [Lecture Slides]()
+* [Lecture Slides](https://docs.google.com/presentation/d/1DPbghxn9g6SPGO7deiN2Y0Sm-xbMjTE6C4wh89ErYJI/edit?usp=sharing)
 
-* [Exit Ticket]() 
+* [Exit Ticket](https://forms.gle/V2hWh46bdgbD7VhQ9) 
 
 * [CLT Simulation](https://openintro.shinyapps.io/CLT_mean/)
 
